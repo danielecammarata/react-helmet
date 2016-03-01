@@ -12,12 +12,13 @@ export const TAG_PROPERTIES = {
     HTTPEQUIV: "http-equiv",
     REL: "rel",
     HREF: "href",
-    ITEMPROP: "itemProp",
+    ITEMPROP: "itemprop",
     PROPERTY: "property",
     SRC: "src"
 };
 
 export const REACT_TAG_MAP = {
+    "itemprop": "itemProp",
     "charset": "charSet",
     "http-equiv": "httpEquiv"
 };
