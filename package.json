@@ -1,5 +1,5 @@
 {
-  "name": "react-helmet",
+  "name": "react-helmet-itemprop",
   "description": "A document head manager for React",
   "version": "2.3.1",
   "main": "./lib/index.js",
