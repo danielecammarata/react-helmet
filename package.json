@@ -1,7 +1,7 @@
 {
   "name": "react-helmet-itemprop",
   "description": "A document head manager for React",
-  "version": "2.3.1",
+  "version": "0.0.2",
   "main": "./lib/index.js",
   "author": "NFL <engineers@nfl.com>",
   "contributors": [

@@ -1,8 +1,6 @@
-<img src="http://static.nfl.com/static/content/public/static/img/logos/nfl-engineering-light.svg" width="300" />
-# React Helmet
-[![npm package](https://img.shields.io/npm/v/react-helmet.svg?style=flat-square)](https://www.npmjs.org/package/react-helmet)
-[![build status](https://img.shields.io/travis/nfl/react-helmet/master.svg?style=flat-square)](https://travis-ci.org/nfl/react-helmet)
-[![dependency status](https://img.shields.io/david/nfl/react-helmet.svg?style=flat-square)](https://david-dm.org/nfl/react-helmet)
+# React Helmet Itemprop
+
+**Fork of the excellent [react-helmet](https://www.npmjs.org/package/react-helmet), just added itemprop, but I needed before possible integration with the original, use the original package because this is not maintained at all**
 
 This reusable React component will manage all of your changes to the document head with support for document title, meta, link, script, and base tags.
 
@@ -17,7 +15,6 @@ Inspired by [react-document-title](https://github.com/gaearon/react-document-tit
 - [Installation](#installation)
 - [Server Usage](#server-usage)
 - [Use Cases](#use-cases)
-- [Contributing to this project](#contributing-to-this-project)
 - [License](#license)
 - [More Examples](#more-examples)
 
@@ -232,12 +229,6 @@ function HTML () {
       <base href="http://mysite.com/blog">
   </head>
   ```
-
-## Contributing to this project
-Please take a moment to review the [guidelines for contributing](CONTRIBUTING.md).
-
-* [Pull requests](CONTRIBUTING.md#pull-requests)
-* [Development Process](CONTRIBUTING.md#development)
 
 ## License
 
